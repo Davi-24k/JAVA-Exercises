@@ -1,4 +1,4 @@
-package lista_03_Estruturas_Repetitivas;
+package lista_03_Estrutura_Repetitiva_WHILE;
 
 import java.util.Scanner;
 
